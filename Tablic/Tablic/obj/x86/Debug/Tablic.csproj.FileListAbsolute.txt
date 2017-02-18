@@ -1,0 +1,87 @@
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\obj\x86\Debug\ORIProjekat.Form1.resources
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\obj\x86\Debug\Tablic.Properties.Resources.resources
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\obj\x86\Debug\Tablic.csproj.GenerateResource.Cache
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\obj\x86\Debug\ORIProjekat.ProglasenjePobednika.resources
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_calib3d240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_contrib240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_core240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_features2d240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_ffmpeg240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_flann240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_gpu240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_highgui240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_imgproc240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_legacy240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_ml240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_nonfree240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_objdetect240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_photo240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_stitching240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_video240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\opencv_videostab240.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Tablic.exe
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Tablic.pdb
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.GPU.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.ML.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.OCR.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.Stitching.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.UI.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.Util.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\ZedGraph.dll
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.xml
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.GPU.xml
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.ML.xml
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.OCR.xml
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.Stitching.xml
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.CV.UI.xml
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\bin\Debug\Emgu.Util.xml
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\obj\x86\Debug\Tablic.exe
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\obj\x86\Debug\Tablic.pdb
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\obj\x86\Debug\ORIProjekat.Form2.resources
+c:\users\mirko\documents\visual studio 2010\Projects\Tablic\Tablic\obj\x86\Debug\Tablic.DecisionGame.resources
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\Tablic.exe
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\Tablic.pdb
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_calib3d240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_contrib240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_core240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_features2d240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_ffmpeg240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_flann240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_gpu240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_highgui240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_imgproc240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_legacy240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_ml240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_nonfree240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_objdetect240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_photo240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_stitching240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_video240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\opencv_videostab240.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Tablic.exe
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Tablic.pdb
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.Util.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\ZedGraph.dll
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.xml
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Baki\Desktop\Tablic\Tablic\bin\Debug\Emgu.Util.xml
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\Tablic.DecisionGame.resources
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\ORIProjekat.Form1.resources
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\ORIProjekat.Form2.resources
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\ORIProjekat.ProglasenjePobednika.resources
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\Tablic.Properties.Resources.resources
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\Tablic.csproj.GenerateResource.Cache
+C:\Users\Baki\Desktop\Tablic\Tablic\obj\x86\Debug\Tablic.csprojResolveAssemblyReference.cache
